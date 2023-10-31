@@ -5,7 +5,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Project2.CallByValueCallByRef</StartupObject>
+    <StartupObject>Project2.CallingDll</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CommonFunctions">
+      <HintPath>..\..\CommonFunctionsDay1\CommonFunctions\bin\Debug\net6.0\CommonFunctions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 </Project>

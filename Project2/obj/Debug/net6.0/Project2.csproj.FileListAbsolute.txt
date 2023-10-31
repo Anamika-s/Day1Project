@@ -13,3 +13,6 @@ C:\Users\anami\source\repos\Day1\Project2\obj\Debug\net6.0\refint\Project2.dll
 C:\Users\anami\source\repos\Day1\Project2\obj\Debug\net6.0\Project2.pdb
 C:\Users\anami\source\repos\Day1\Project2\obj\Debug\net6.0\Project2.genruntimeconfig.cache
 C:\Users\anami\source\repos\Day1\Project2\obj\Debug\net6.0\ref\Project2.dll
+C:\Users\anami\source\repos\Day1\Project2\bin\Debug\net6.0\CommonFunctions.dll
+C:\Users\anami\source\repos\Day1\Project2\bin\Debug\net6.0\CommonFunctions.pdb
+C:\Users\anami\source\repos\Day1\Project2\obj\Debug\net6.0\Project2.csproj.CopyComplete

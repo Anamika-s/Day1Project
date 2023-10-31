@@ -10,6 +10,11 @@ namespace Project2
     {
         static void Main()
         {
+            int[,] arr = new int[3, 3];
+            int[,,] arr2 = new int[3, 13, 3];
+
+            Console.WriteLine(arr2.GetLength(0));
+            Console.WriteLine(arr2.GetLength(1));
             int x = 10;
             Console.WriteLine($"Value of x before calling Chaange1 {x}");
             Change1(x);

@@ -13,7 +13,7 @@ namespace Project1
             int[,] arr = new int[3, 3];
             int[,,] arr2 = new int[3, 3, 3];
 
-            Console.WriteLine(arr2.GetLowerBound);
+            Console.WriteLine(arr2.GetLength(0));
 
             //            // zagged Array/
             //            // when no of rows are fixed, but no of cols for every row is not fixed
