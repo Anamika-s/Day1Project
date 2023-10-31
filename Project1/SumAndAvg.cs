@@ -17,6 +17,8 @@ namespace Project1
             {
                 Console.WriteLine("Enter Num");
                 i = Int16.Parse(Console.ReadLine());
+                if (i < 0) continue;
+                if (i == 0) break;
                 sum += i;
                 Console.WriteLine("ENter more num");
                 ch=Console.ReadLine();
